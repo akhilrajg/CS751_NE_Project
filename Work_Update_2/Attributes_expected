@@ -1,0 +1,5 @@
+Attributes expected in the new trace file
+
+1. End-to-End packet id - a packet id that remains unique for the packets transmitted during multi-hop transmissions
+
+2. Original source address - source address of node where data is originated during multi-hop transmission
