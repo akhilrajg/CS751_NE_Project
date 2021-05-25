@@ -1,0 +1,93 @@
+# [BEGIN SIMULATION 1]
+{
+  "event": "+",
+  "timestamp": 1.62186595494E9,
+  "from": 1,
+  "to": 2,
+  "pid": -36955855
+}{
+  "event": "-",
+  "timestamp": 1.621865955019E9,
+  "from": 1,
+  "to": 2,
+  "pid": -36955855
+}{
+  "event": "r",
+  "timestamp": 1.621865956383E9,
+  "from": 1,
+  "to": 2,
+  "pid": -36955855
+}{
+  "event": "+",
+  "timestamp": 1.621865964913E9,
+  "from": 1,
+  "to": 2,
+  "pid": 656709255
+}{
+  "event": "-",
+  "timestamp": 1.621865964966E9,
+  "from": 1,
+  "to": 2,
+  "pid": 656709255
+}{
+  "event": "r",
+  "timestamp": 1.621865966321E9,
+  "from": 1,
+  "to": 2,
+  "pid": 656709255
+}{
+  "event": "+",
+  "timestamp": 1.621865974914E9,
+  "from": 1,
+  "to": 2,
+  "pid": 1586853934
+}{
+  "event": "-",
+  "timestamp": 1.621865974967E9,
+  "from": 1,
+  "to": 2,
+  "pid": 1586853934
+}{
+  "event": "r",
+  "timestamp": 1.621865976321E9,
+  "from": 1,
+  "to": 2,
+  "pid": 1586853934
+}{
+  "event": "+",
+  "timestamp": 1.621865984913E9,
+  "from": 1,
+  "to": 2,
+  "pid": -774301289
+}{
+  "event": "-",
+  "timestamp": 1.621865984967E9,
+  "from": 1,
+  "to": 2,
+  "pid": -774301289
+}{
+  "event": "r",
+  "timestamp": 1.621865986321E9,
+  "from": 1,
+  "to": 2,
+  "pid": -774301289
+}{
+  "event": "+",
+  "timestamp": 1.621865994913E9,
+  "from": 1,
+  "to": 2,
+  "pid": 1719576177
+}{
+  "event": "-",
+  "timestamp": 1.621865994967E9,
+  "from": 1,
+  "to": 2,
+  "pid": 1719576177
+}{
+  "event": "r",
+  "timestamp": 1.621865996321E9,
+  "from": 1,
+  "to": 2,
+  "pid": 1719576177
+}# [STATS: q=5, t=5, r=5, d=0, O=0.057, L=0.057, D=0.710, T=0.057]
+# [END SIMULATION 1]
