@@ -1,0 +1,102 @@
+
+{"version": "1.0","group":"SIMULATION 1","events":[{
+  "status": "ENQUEUED",
+  "timestamp": 1.622665794301E9,
+  "from": 1,
+  "to": 2,
+  "pid": 681671894
+}{
+  "status": "DEQUEUED",
+  "timestamp": 1.622665794379E9,
+  "from": 1,
+  "to": 2,
+  "pid": 681671894
+}{
+  "status": "RECEIVED",
+  "timestamp": 1.622665795746E9,
+  "from": 1,
+  "to": 2,
+  "pid": 681671894
+}{
+  "status": "ENQUEUED",
+  "timestamp": 1.622665804276E9,
+  "from": 1,
+  "to": 2,
+  "pid": -420478975
+}{
+  "status": "DEQUEUED",
+  "timestamp": 1.62266580433E9,
+  "from": 1,
+  "to": 2,
+  "pid": -420478975
+}{
+  "status": "RECEIVED",
+  "timestamp": 1.622665805685E9,
+  "from": 1,
+  "to": 2,
+  "pid": -420478975
+}{
+  "status": "ENQUEUED",
+  "timestamp": 1.622665814276E9,
+  "from": 1,
+  "to": 2,
+  "pid": 1473429424
+}{
+  "status": "DEQUEUED",
+  "timestamp": 1.622665814329E9,
+  "from": 1,
+  "to": 2,
+  "pid": 1473429424
+}{
+  "status": "RECEIVED",
+  "timestamp": 1.622665815682E9,
+  "from": 1,
+  "to": 2,
+  "pid": 1473429424
+}{
+  "status": "ENQUEUED",
+  "timestamp": 1.622665824275E9,
+  "from": 1,
+  "to": 2,
+  "pid": -516563784
+}{
+  "status": "DEQUEUED",
+  "timestamp": 1.622665824328E9,
+  "from": 1,
+  "to": 2,
+  "pid": -516563784
+}{
+  "status": "RECEIVED",
+  "timestamp": 1.622665825681E9,
+  "from": 1,
+  "to": 2,
+  "pid": -516563784
+}{
+  "status": "ENQUEUED",
+  "timestamp": 1.622665834276E9,
+  "from": 1,
+  "to": 2,
+  "pid": -1462010512
+}{
+  "status": "DEQUEUED",
+  "timestamp": 1.622665834329E9,
+  "from": 1,
+  "to": 2,
+  "pid": -1462010512
+}{
+  "status": "RECEIVED",
+  "timestamp": 1.622665835682E9,
+  "from": 1,
+  "to": 2,
+  "pid": -1462010512
+}]}
+{"version": "1.0","group":"SIMULATION 1","statistics":[{
+  "queued": 5,
+  "transmitted": 5,
+  "received": 5,
+  "dropped": 0,
+  "offered_load": 2.1569443966978705E-9,
+  "load": 2.1569443966965413E-9,
+  "mean_delay": 0.7104,
+  "throughput": 2.156944396695212E-9
+}]}
